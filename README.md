@@ -1,1 +1,5 @@
-# itamae-samples
+# dotfiles
+
+How to innstall:
+
+    ./install.sh
